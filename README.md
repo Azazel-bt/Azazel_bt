@@ -6,8 +6,8 @@
 ¡Bienvenido a mi espacio en GitHub!.Soy estudiante de Ingeniería Electrónica en la **Universidad Industrial de Santander (UIS)**. Mi enfoque profesional se centra en la convergencia del hardware inteligente, el desarrollo de sistemas embebidos de alto rendimiento y la investigación en Inteligencia Artificial.
 
 Actualmente soy miembro activo de dos grupos clave en mi institución:
-* [cite_start]**Grupo de Robótica E.R.A.:** Orientado al diseño, simulación y construcción de hardware robótico competitivo y funcional.
-* [cite_start]**Grupo CPS UIS:** Enfocado en la investigación y desarrollo de redes neuronales convolucionales para procesamiento avanzado de información.
+* **Grupo de Robótica E.R.A.:** Orientado al diseño, simulación y construcción de hardware robótico competitivo y funcional.
+* **Grupo CPS UIS:** Enfocado en la investigación y desarrollo de redes neuronales convolucionales para procesamiento avanzado de información.
 
 ---
 
