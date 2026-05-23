@@ -59,4 +59,4 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 * **✉️ Correo Electrónico:** stivroa2.0@gmail.com
 
 ---
-_“Aprender es mi mayor poder”_
+_“No temo fallar. Temo no intentar.”_
