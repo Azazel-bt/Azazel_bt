@@ -1,6 +1,6 @@
 # ¡Hola! Soy Carlos Stiven 👋
 
-### ⚡ Ingeniero Electrónico | Miembro del Grupo de Robótica E.R.A.
+### ⚡ Ingeniero Electrónico | Miembro del Grupo de Robótica E.R.A. | UIVERSIDAD INDUSTRIAL DE SANTANDER
 
 ¡Bienvenido a mi espacio en GitHub! Soy un apasionado por el diseño de hardware, los sistemas embebidos y la robótica. Actualmente formo parte activa del **Grupo de Robótica E.R.A.**, donde desarrollo proyectos tecnológicos enfocados en automatización y competencias.
 
