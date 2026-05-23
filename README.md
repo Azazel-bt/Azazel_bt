@@ -12,6 +12,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 * **Grupo CPS UIS:** Enfocado en la investigación y desarrollo de redes neuronales convolucionales para procesamiento avanzado de información.
 
 ---
+<img width="1005" height="107" alt="image" src="https://github.com/user-attachments/assets/ea30f12b-8f93-4f25-846b-7b743c656028" />
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -21,6 +22,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 * **Habilidades Blandas:** Liderazgo en gestión logística (Semana Técnica E3T), comunicación asertiva y trabajo en equipo.
 
 ---
+<img width="1020" height="124" alt="image" src="https://github.com/user-attachments/assets/7e2d0985-0861-4882-9435-3357716e2462" />
 
 ## 📁 Portafolio de Proyectos
 
@@ -40,6 +42,8 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
     * *Descripción:* Robot móvil autónomo de pruebas diseñado para el seguimiento de trayectorias a alta velocidad mediante sensores ópticos infrarrojos.
     * *Tecnologías:* Control de motores, sensores infrarrojos, Arduino, LCD.
     * 👉 _[Ver Proyecto (Próximamente)](#)_
+---
+<img width="1006" height="108" alt="image" src="https://github.com/user-attachments/assets/f39cddab-d0d0-42fc-b4ef-33fbcfbb9446" />
 
 ### 🧠 Inteligencia Artificial & Machine Learning (Grupo CPS)
 
