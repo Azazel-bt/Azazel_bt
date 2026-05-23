@@ -1,3 +1,5 @@
+<img width="1008" height="123" alt="image" src="https://github.com/user-attachments/assets/f1b875fd-d46c-4ac8-a2d0-c1bcedf75265" />
+
 # ¡Hola! Soy Carlos Stiven Roa Martinez 👋
 
 ### ⚡ Ingeniero Electrónico en Formación | UIS 
