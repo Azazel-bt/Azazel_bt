@@ -31,7 +31,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 * **🔋 E.R.A. Source - Fuente Regulable**
     * *Descripción:* Fuente de alimentación regulada y estabilizada diseñada de forma analógica para el laboratorio del grupo de robótica, garantizando energía limpia y segura para prototipos.
     * *Tecnologías:* Diseño analógico, regulación de potencia, simulación de circuitos.
-    * 👉 _[Ver Proyecto (Próximamente)](#)_
+    * 👉 _[https://github.com/Azazel-bt/E.R.A.-Source/blob/main/README.md](#)_
 
 * **⚖️ Robot Clasificador de Pesos**
     * *Descripción:* Sistema de automatización basado en el microcontrolador **ESP32** para identificar, calibrar, clasificar y separar objetos dinámicamente mediante lecturas precisas de peso[cite: 80, 88].
