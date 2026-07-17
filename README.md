@@ -42,6 +42,11 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
     * *Descripción:* Robot móvil autónomo de pruebas diseñado para el seguimiento de trayectorias a alta velocidad mediante sensores ópticos infrarrojos.
     * *Tecnologías:* Control de motores, sensores infrarrojos, Arduino, LCD.
     * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Bumblebee-Seguidor-Linea)_
+ 
+* **🦾 Robot-DH-Interactivo-6DOF - Simulador de Brazo Robótico**
+    * *Descripción:* Simulador interactivo en 3D de un brazo manipulador de 6 grados de libertad para el cálculo cinemático directo en tiempo real mediante la convención Denavit-Hartenberg.
+    * *Tecnologías:* MATLAB, UI Figures, Matrices de Transformación Homogénea, Cinemática Directa.
+    * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Robot-DH-Interactivo-6DOF)_
 ---
 <img width="1006" height="108" alt="image" src="https://github.com/user-attachments/assets/f39cddab-d0d0-42fc-b4ef-33fbcfbb9446" />
 
