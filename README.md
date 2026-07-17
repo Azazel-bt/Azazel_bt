@@ -41,7 +41,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 * **🐝 Bumblebee - Seguidor de Línea Básico**
     * *Descripción:* Robot móvil autónomo de pruebas diseñado para el seguimiento de trayectorias a alta velocidad mediante sensores ópticos infrarrojos.
     * *Tecnologías:* Control de motores, sensores infrarrojos, Arduino, LCD.
-    * 👉 _[Ver Proyecto (Próximamente)](#)_
+    * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Bumblebee-Seguidor-Linea)_
 ---
 <img width="1006" height="108" alt="image" src="https://github.com/user-attachments/assets/f39cddab-d0d0-42fc-b4ef-33fbcfbb9446" />
 
