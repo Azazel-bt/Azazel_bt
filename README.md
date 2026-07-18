@@ -55,7 +55,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 * **👁️ Clasificación de Imágenes con Redes Convolucionales (CNN)**
     * *Descripción:* Investigación e implementación de funciones de activación **ReLU** y **Leaky ReLU** en redes neuronales convolucionales profundas utilizando el dataset estándar **CIFAR-10** para clasificación de imágenes. Incluye análisis experimental de mapas de activación (*Feature Maps*) y el impacto de inicializaciones de pesos subóptimas (*Bad Init*) capa por capa.
     * *Tecnologías:* Python, Deep Learning, Procesamiento Digital de Imágenes.
-    * 👉 _[Ver Proyecto en GitHub](https://github.com/Azazel-bt/Clasificacion_de_Imagenes_con_Redes_Convolucionales_-CNN-)_
+    * 👉 _[Ver Proyecto en GitHub](https://github.com/Azazel-bt/Clasificacion_de_Imagenes_con_Redes_Convolucionales_-CNN-)_ 
 
 ---
 
