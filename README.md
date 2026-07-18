@@ -55,7 +55,12 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 * **👁️ Clasificación de Imágenes con Redes Convolucionales (CNN)**
     * *Descripción:* Investigación e implementación de funciones de activación **ReLU** y **Leaky ReLU** en redes neuronales convolucionales profundas utilizando el dataset estándar **CIFAR-10** para clasificación de imágenes. Incluye análisis experimental de mapas de activación (*Feature Maps*) y el impacto de inicializaciones de pesos subóptimas (*Bad Init*) capa por capa.
     * *Tecnologías:* Python, Deep Learning, Procesamiento Digital de Imágenes.
-    * 👉 _[Ver Proyecto en GitHub](https://github.com/Azazel-bt/Clasificacion_de_Imagenes_con_Redes_Convolucionales_-CNN-)_ 
+    * 👉 _[Ver Proyecto en GitHub](https://github.com/Azazel-bt/Clasificacion_de_Imagenes_con_Redes_Convolucionales_-CNN-)_
+
+ * **🔊 Reconocimiento del Hablante mediante Procesamiento de Señales de Audio**
+    * *Descripción:* Desarrollo e implementación de un sistema de clasificación y reconocimiento de voz humana a partir de señales de audio (.opus/.wav). El pipeline incluye el filtrado pasabanda basado en la frecuencia dominante, el ventaneo de señales, y la extracción de coeficientes cepstrales en las frecuencias de Mel (**MFCCs**) combinados con un clasificador **Support Vector Machine (SVM)** para la identificación precisa de hablantes.
+    * *Tecnologías:* Python, Deep Learning, Procesamiento Digital de Señales (DSP), SciPy, Librosa, Scikit-learn.
+    * 👉 _[Ver Proyecto en GitHub (Próximamente)](#)_
 
 ---
 
