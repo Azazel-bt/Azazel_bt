@@ -60,7 +60,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 * **🎙️ Clasificador de Voz por Señales de Audio**
   * *Descripción:* Proyecto de Procesamiento Digital de Señales (DSP) y Machine Learning para la conversión, filtrado digital (Butterworth) y clasificación de patrones de voz de diferentes usuarios.
   * *Tecnologías:* Python, Librosa, PyDub, SciPy, Scikit-Learn (SVM), FFmpeg.
-  * 👉 [Ver repositorio en GitHub](https://github.com/Azazel-bt/Clasificador-de-Voz-DSP)
+  * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Clasificador-de-Voz-DSP)_
 ---
 
 ## 📬 Conectemos
