@@ -17,7 +17,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 ## 🛠️ Tecnologías y Herramientas
 
 * **Hardware & PCB Design:** KiCad | Próximamente explorando EasyEDA.
-* **Sistemas Embebidos & Computación:** ESP32 | [cite_start]C / C++[cite: 78, 88].
+* **Sistemas Embebidos & Computación:** ESP32 | C / C++.
 * **Inteligencia Artificial & Simulación:** Python | MATLAB | Redes Convolucionales (CNN) con arquitecturas de activación ReLU y Leaky ReLU.
 * **Habilidades Blandas:** Liderazgo en gestión logística (Semana Técnica E3T), comunicación asertiva y trabajo en equipo.
 
