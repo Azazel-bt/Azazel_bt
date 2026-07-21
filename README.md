@@ -47,6 +47,11 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
     * *Descripción:* Simulador interactivo en 3D de un brazo manipulador de 6 grados de libertad para el cálculo cinemático directo en tiempo real mediante la convención Denavit-Hartenberg.
     * *Tecnologías:* MATLAB, UI Figures, Matrices de Transformación Homogénea, Cinemática Directa.
     * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Robot-DH-Interactivo-6DOF)_
+ 
+* **🎯 Simulador-de-Tiro-Parabolico-con-Control-PID-en-Tiempo-Real-MATLAB**
+    * *Descripción:* Simulador interactivo en tiempo real que implementa un controlador PID para ajustar el ángulo de disparo de un cañón y acertar a un blanco móvil, permitiendo modificar parámetros físicos y ganancias de control.
+    * *Tecnologías:* MATLAB, Control PID, UI Figures, Física de Tiro Parabólico, Sistemas de Control.
+    * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Simulador-de-Tiro-Parabolico-con-Control-PID-en-Tiempo-Real-MATLAB-)_
 ---
 <img width="1006" height="108" alt="image" src="https://github.com/user-attachments/assets/f39cddab-d0d0-42fc-b4ef-33fbcfbb9446" />
 
