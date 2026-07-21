@@ -57,11 +57,10 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
     * *Tecnologías:* Python, Deep Learning, Procesamiento Digital de Imágenes.
     * 👉 _[Ver Proyecto en GitHub](https://github.com/Azazel-bt/Clasificacion_de_Imagenes_con_Redes_Convolucionales_-CNN-)_
 
- * **🔊 Reconocimiento del Hablante mediante Procesamiento de Señales de Audio**
-    * *Descripción:* Desarrollo e implementación de un sistema de clasificación y reconocimiento de voz humana a partir de señales de audio (.opus/.wav). El pipeline incluye el filtrado pasabanda basado en la frecuencia dominante, el ventaneo de señales, y la extracción de coeficientes cepstrales en las frecuencias de Mel (**MFCCs**) combinados con un clasificador **Support Vector Machine (SVM)** para la identificación precisa de hablantes.
-    * *Tecnologías:* Python, Deep Learning, Procesamiento Digital de Señales (DSP), SciPy, Librosa, Scikit-learn.
-    * 👉 _[Ver Proyecto en GitHub (Próximamente)](#)_
-
+* **🎙️ Clasificador de Voz por Señales de Audio**
+  * *Descripción:* Proyecto de Procesamiento Digital de Señales (DSP) y Machine Learning para la conversión, filtrado digital (Butterworth) y clasificación de patrones de voz de diferentes usuarios.
+  * *Tecnologías:* Python, Librosa, PyDub, SciPy, Scikit-Learn (SVM), FFmpeg.
+  * 👉 [Ver repositorio en GitHub](https://github.com/Azazel-bt/Clasificador-de-Voz-DSP)
 ---
 
 ## 📬 Conectemos
