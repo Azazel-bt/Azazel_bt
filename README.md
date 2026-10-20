@@ -53,7 +53,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
     * *Tecnologías:* MATLAB, Control PID, UI Figures, Física de Tiro Parabólico, Sistemas de Control.
     * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Simulador-de-Tiro-Parabolico-con-Control-PID-en-Tiempo-Real-MATLAB-)_
  
-* **🎯 Sistema-de-Parqueadero-Inteligente-con-ESP32-y-Servorres
+* **🎯 Sistema-de-Parqueadero-Inteligente-con-ESP32-e-Interfas-grafica**
 
  *  *Descripción:* Proyecto IoT basado en ESP32 para la automatización y monitoreo en tiempo real de un parqueadero de 4 plazas, utilizando sensores de efecto Hall analógicos, servomotores para control de barreras y un servidor web
    integrado con interfaz interactiva.
