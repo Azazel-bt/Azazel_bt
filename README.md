@@ -55,12 +55,12 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
  
 * **🎯 Sistema-de-Parqueadero-Inteligente-con-ESP32-e-Interfas-grafica**
 
- *  *Descripción:* Proyecto IoT basado en ESP32 para la automatización y monitoreo en tiempo real de un parqueadero de 4 plazas, utilizando sensores de efecto Hall analógicos, servomotores para control de barreras y un servidor web
+    *  *Descripción:* Proyecto IoT basado en ESP32 para la automatización y monitoreo en tiempo real de un parqueadero de 4 plazas, utilizando sensores de efecto Hall analógicos, servomotores para control de barreras y un servidor web
    integrado con interfaz interactiva.
 
- *  *Tecnologías:* ESP32, Arduino, HTML5/JavaScript (AJAX), Servomotores SG90, Sensores Hall (49E), Servidor Web Wi-Fi (Access Point).
+    *  *Tecnologías:* ESP32, Arduino, HTML5/JavaScript (AJAX), Servomotores SG90, Sensores Hall (49E), Servidor Web Wi-Fi (Access Point).
 
- * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Simulador-de-Tiro-Parabolico-con-Control-PID-en-Tiempo-Real-MATLAB-)_
+    * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Simulador-de-Tiro-Parabolico-con-Control-PID-en-Tiempo-Real-MATLAB-)_
 ---
 <img width="1006" height="108" alt="image" src="https://github.com/user-attachments/assets/f39cddab-d0d0-42fc-b4ef-33fbcfbb9446" />
 
