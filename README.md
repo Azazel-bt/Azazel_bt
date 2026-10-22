@@ -60,7 +60,7 @@ Actualmente soy miembro activo de dos grupos clave en mi institución:
 
     *  *Tecnologías:* ESP32, Arduino, HTML5/JavaScript (AJAX), Servomotores SG90, Sensores Hall (49E), Servidor Web Wi-Fi (Access Point).
 
-    * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Simulador-de-Tiro-Parabolico-con-Control-PID-en-Tiempo-Real-MATLAB-)_
+    * 👉 _[Ver repositorio en GitHub](https://github.com/Azazel-bt/Sistema-de-Parqueadero-Inteligente-con-ESP32-e-Interfas-grafica.git)_
 ---
 <img width="1006" height="108" alt="image" src="https://github.com/user-attachments/assets/f39cddab-d0d0-42fc-b4ef-33fbcfbb9446" />
 
